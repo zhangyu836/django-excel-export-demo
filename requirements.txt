@@ -1,5 +1,5 @@
 django
 gunicorn
 django-heroku
-excel-exporter >= 0.1.1
+excel-exporter >= 0.1.2
 Pillow
